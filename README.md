@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github.com/neiilmolina/neiilmolina/blob/main/assets/el%20bicho%20siuu.jpg
+
+![el bicho siuu](https://user-images.githubusercontent.com/127098082/224312691-46f51dfc-3780-4e87-b245-1446ee74e8ce.jpg)
